@@ -1,0 +1,24 @@
+{
+  "name": "cups-print",
+  "version": "1.0.0",
+  "description": "Util to print a file on a CUPS printer and get the job id and desitnation returned",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adequaat/cups-print.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adequaat/cups-print/issues"
+  },
+  "homepage": "https://github.com/adequaat/cups-print#readme",
+  "devDependencies": {
+    "ava": "^5.0.1"
+  }
+}
