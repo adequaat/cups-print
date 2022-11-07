@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/adequaat/cups-print.git"
   },
-  "keywords": [],
+  "keywords": ["CUPS", "print"],
   "author": "",
   "license": "ISC",
   "bugs": {
